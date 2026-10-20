@@ -4,7 +4,7 @@ Mapa web sencillo de la localidad de San Isidro (Buenos Aires, Argentina), base 
 
 ## 🧱 Stack
 
-HTML + CSS + JavaScript vanilla, Leaflet por CDN, tiles de OpenStreetMap / CARTO. Hosting estático en GitHub Pages.
+HTML + CSS + JavaScript vanilla, Leaflet por CDN, tiles de OpenStreetMap. Hosting estático en GitHub Pages.
 
 ## 🚀 Probar en local
 
